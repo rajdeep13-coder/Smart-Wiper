@@ -32,7 +32,4 @@ It ensures that when it rains, the servo-powered wiper activates, and when an ob
 
 - Breadboard & jumper wires for prototyping  
 
----
-
-## 🛠️ Wiring Diagram (Textual)
 
